@@ -1,0 +1,12 @@
+@keyframes anim {
+0% { opacity: 0; transform: translateX(-16px); }
+0.6578947368421052% { opacity: 1; transform: none;}
+99.3421052631579% { opacity: 1; transform: none;}
+100% { opacity: 0; transform: translateX(16px); }
+}
+
+yt-live-chat-text-message-renderer,
+yt-live-chat-legacy-paid-message-renderer {
+  animation: anim 30400ms;
+  animation-fill-mode: both;
+}
