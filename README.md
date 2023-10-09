@@ -1,6 +1,8 @@
 # YoutubeLiveChatCSS
 ライブチャット用のCSS置き場
 
+フキダシ付きのコメントで、ライブリアクションも表示されます。
+
 ## Twilight Wings Studio Streamer Apps
 
 [なりきりVTuber](https://store.steampowered.com/app/1632350?utm_source=GitHub&utm_content=YouTube-Uploads-Notifyer)  
